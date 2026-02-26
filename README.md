@@ -1,6 +1,6 @@
 # 🎄 ASCII Fir Tree Generator (C)
 
-Small C project that generates and displays a decorated ASCII fir tree in the terminal.
+Four small projects, and each of these projects must print something on the console if everything is okay. You need to pay attention to a good IDE, compiler, etc.
 
 ## Features
 
@@ -18,9 +18,9 @@ src/
 
 ## Terminal
 ```bash
-$ mkdir "code name" && cd "code name"
+$ mkdir "project name" && cd "project name"
 $ git clone https://github.com/beaurel2/Fir-Tree-with-C-Programm.git
-$ cd Fir_tree && make
+$ cd "file name" && make
 ```
 
 If everything is OK, then I get the output on the terminal:
